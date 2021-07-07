@@ -1,19 +1,19 @@
 ## Start Here
-http://teamultimate.in/	
-http://teamultimate.in/start-here/
-http://null-byte.wonderhowto.com/
-http://www.hackingarticles.in/
-https://www.cybrary.it/
-https://www.computersecuritystudent.com/
-http://breakthesecurity.cysecurity.org/p/hacking-tutorials-for-beginners.html
-http://www.guru99.com/learn-penetration-testing.html
-http://back-track-linux.blogspot.in/2012/11/backtrack-penetration-testing-tutorial.html
-https://community.rapid7.com/docs/DOC-2248
-https://www.soldierx.com/tutorials/Pentesting-Tutorial-1-Information-Gathering-Part-1-Nmap
-https://www.owasp.org/index.php/Category:How_To
-http://www.ranum.com/security/computer_security/editorials/dumb/index.html
-http://www.developer.com/java/data/article.php/10932_3667601_1
-https://dzone.com/articles/10-steps-to-secure-software
+http://teamultimate.in/	<br>
+http://teamultimate.in/start-here/ <br>
+http://null-byte.wonderhowto.com/<br>
+http://www.hackingarticles.in/<br>
+https://www.cybrary.it/<br>
+https://www.computersecuritystudent.com/<br>
+http://breakthesecurity.cysecurity.org/p/hacking-tutorials-for-beginners.html<br>
+http://www.guru99.com/learn-penetration-testing.html<br>
+http://back-track-linux.blogspot.in/2012/11/backtrack-penetration-testing-tutorial.html<br>
+https://community.rapid7.com/docs/DOC-2248<br>
+https://www.soldierx.com/tutorials/Pentesting-Tutorial-1-Information-Gathering-Part-1-Nmap<br>
+https://www.owasp.org/index.php/Category:How_To<br>
+http://www.ranum.com/security/computer_security/editorials/dumb/index.html<br>
+http://www.developer.com/java/data/article.php/10932_3667601_1<br>
+https://dzone.com/articles/10-steps-to-secure-software<br>
 
 ## Cryptography Related Tutorials : 
 https://developer.mozilla.org/en-US/docs/Archive/Security/Introduction_to_Public-Key_Cryptography
